@@ -7,12 +7,12 @@ Informações básicas do projeto.
 
 * **Membros da equipe:**
 
-* [Ana Júlia de Sena Oliveira](https://github.com/Ana-Sena)
-* [Daniel Aguiar Pacheco](https://github.com/beltrano)
-* [Douglas Marçal de Freitas](https://github.com/douglasFreitas18)
-* [Pedro Henrique Maia](https://github.com/pedrohomaia)
-* [Pedro Pinho](https://github.com/p1nho0)
-* [Renata Neves](https://github.com/renataneves-hub)
+  * [Ana Júlia de Sena Oliveira](https://github.com/Ana-Sena)
+  * [Daniel Aguiar Pacheco](https://github.com/beltrano)
+  * [Douglas Marçal de Freitas](https://github.com/douglasFreitas18)
+  * [Pedro Henrique Maia](https://github.com/pedrohomaia)
+  * [Pedro Pinho](https://github.com/p1nho0)
+  * [Renata Neves](https://github.com/renataneves-hub)
   
 
 A documentação do projeto é estruturada da seguinte forma:
