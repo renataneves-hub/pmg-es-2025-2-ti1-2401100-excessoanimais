@@ -175,15 +175,12 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 | Ambiente                    | Plataforma | Link de acesso                                     |
 | --------------------------- | ---------- | -------------------------------------------------- |
-| Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
-| Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
+| Processo de Design Thinking | Miro       | [Miro_Link](https://miro.com/app/live-embed/uXjVJSvRFpQ=/?embedMode=view_only_without_ui&moveToViewport=-1549%2C-1179%2C7835%2C3667&embedId=453530841408) |
+| Repositório de código       | GitHub     | [Git_Link](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-excessoanimais.git) |
+| User Flow                   | Figma      | [Link_Figma](https://www.figma.com/board/kepVe4IaAiIuy9cNVgNPvJ/FLUXO---INTERA%C3%87AO?node-id=0-1&p=f&t=bQCXrZnszdkVXm6Z-0)   |
 | Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
-| Protótipo Interativo       | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
+| Protótipo Interativo        | Figma      | [Link_Figma](https://www.figma.com/board/kepVe4IaAiIuy9cNVgNPvJ/FLUXO---INTERA%C3%87AO?node-id=0-1&p=f&t=bQCXrZnszdkVXm6Z-0)   |
 |                             |            |                                                    |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível. Inclua itens como: (1) Editor de código, (2) )ferramentas de comunicação, (3) )ferramentas de diagramação, (4) )plataformas de hospedagem, entre outras.
 
 ## Gerenciamento do Projeto
 
