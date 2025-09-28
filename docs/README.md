@@ -74,35 +74,22 @@ O público-alvo possui perfis variados em relação à tecnologia: desde cidadã
 
 ## Etapa de Entendimento
 
-**✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
-> * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
-> * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
-> * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
-> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
+> * **Matriz CSD**: ![Matriz_CSD](<images/Matriz CSD.jpg>)
+> * **Mapa de stakeholders**: ![Mapa_Stakeholders](<images/Mapa de stakeholders.jpg>)
+> * **Entrevistas qualitativas**: ![Entrevistas](<images/Entrevistas Qualitativas.jpg>)
+> * **Highlights de pesquisa**: ![Highlights_Pesquisa](<images/Highlights de pesquisa.jpg>)
 
 ## Etapa de Definição
 
 ### Personas
 
-**✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
+| Persona 1 | Persona 2 |
+| ------- | ------- |
+| ![Persona1](<images/Persona 1.jpg>) | ![Persona2](<images/Persona 2.jpg>) |
 
-![Exemplo de proposta de valor](images/exemplo-persona.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
->
-> **Orientações**:
->
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
+| Persona 3 | Persona 4 |
+| ------- | ------- |
+| ![Persona3](<images/Persona 3.png>) | |
 
 # Product Design
 
@@ -114,29 +101,26 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 | EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
 | --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
-| Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
+| Usuário: Órgão Zoonoses      | Ter acesso à denúncias de animais abandonados | Conseguir resgatá-los de forma mais eficiente|
+| Usuário: Órgão Zoonoses      | Informação detalhada sobre o animal e o local de abandono | Resgate mais eficaz |
+| Usuário: Órgão Zoonoses      | Gerenciar status da denúncia | Facilitar acompanhamento do processo |
+| Usuário: Órgão Zoonoses      | Cadastrar animais aptos para adoção | Encontrar um novo lar para o animal |
+| Usuário: Órgão Zoonoses      | Adicionar fotos e informação de saúde e comportamento | Aumentar as chances de adoção |
+| Usuário: Denunciante         | Denunciar animais abandonados | Garantir que sejam resgtados |
+| Usuário: Denunciante         | Acessar um número de protocolo da denúncia | Acompanhar andamento da denúncia |
+| Usuário: Potencial adotante  | Buscar animais para adoção com filtros | Encontrar o mais compatível com minha rotina             |
+| Usuário: Potencial adotante  | Acesso à informações de saúde do animal | Me certificar de responsabilidades futuras           |
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão das necessidades de cada persona. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
->
-> **Orientações**:
->
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Proposta de Valor
 
-**✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
+|1 - Isabel | 2 - João Pereira |
+| --------- | ---------------- |
+| ![Proposta1](<images/Proposta de Valor - 1.jpg>) | ![Proposta2](<images/Proposta de Valor - 2.jpg>) |
 
-##### Proposta de valor para Persona XPTO ⚠️ EXEMPLO ⚠️
-
-![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> O mapa da proposta de valor é uma ferramenta que nos ajuda a definir qual tipo de produto ou serviço melhor atende às personas definidas anteriormente.
+|3 - Flora  | 4 - |
+| --------- | ----------- |
+|  |  |
 
 ## Requisitos
 
@@ -144,33 +128,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-| ID     | Descrição do Requisito                                   | Prioridade |
+| ID     | Descrição do Requisito                                     | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001 | Permitir o recebimento de denúncias de animais abandonados | ALTA |
+| RF-002 | Disponibilizar informações detalhadas da denúncia | ALTA |
+| RF-003 | Permitir gerenciamento de denúncias (aberto, resgatado) | MÉDIA |
+| RF-004 | Permitir cadastro de animais resgatados em aba de adoção | ALTA |
+| RF-005 | Possibilitar upload de fotos e inclusão de informações de saúde e comportamento | MÉDIA |
+| RF-006 | Permitir registro de denúncias de animais abandonados | ALTA       |
+| RF-007 | Gerar e disponibilizar número de protocolo de denúncia | MÉDIA       |
+| RF-008 | Permitir busca de animais para adoção com filtros (porte, idade, etc) | MÉDIA |
+| RF-009 | Exibir informações de saúde dos animais (castração, vacina)| MÉDIA |
 
 ### Requisitos não Funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
-| ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Os requisitos de um projeto são classificados em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
->
-> **Orientações**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| ------- | ----------------------------------------------------------------------------------- | ---------- |
+| RNF-001 | Desenvolvimento em HTML, CSS e JavaScript. (código organizado e eficiente). | MÉDIA |
+| RNF-002 | Páginas devem abrir em menos de 5 segundos. | BAIXA |
+| RNF-003 | Interface intuitiva e de fácil uso. | BAIXA |
+| RNF-004 | O site deve ser responsivo. | BAIXA |
+| RNF-005 | O sistema deverá estar disponível 24/7. | MÉDIA |
 
 ## Projeto de Interface
 
@@ -178,52 +156,14 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 ### Wireframes
 
-Estes são os protótipos de telas do sistema.
-
-**✳️✳️✳️ COLOQUE AQUI OS PROTÓTIPOS DE TELAS COM TÍTULO E DESCRIÇÃO ✳️✳️✳️**
-
-##### TELA XPTO ⚠️ EXEMPLO ⚠️
-
-Descrição para a tela XPTO
-
-![Exemplo de wireframe](images/exemplo-wireframe.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante ao layout de elementos fundamentais na interface.
->
-> **Orientações**:
->
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-
 ### User Flow
 
-**✳️✳️✳️ COLOQUE AQUI O DIAGRAMA DE FLUXO DE TELAS ✳️✳️✳️**
-
-![Exemplo de fluxo de telas](images/exemplo-userflow.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
->
-> **Orientações**:
->
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools &amp; Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+![Fluxo1](<images/FLUXO _ INTERAÇAO.jpg>)
+![Fluxo2](<images/FLUXO _ INTERAÇAO (1).jpg>)
 
 ### Protótipo Interativo
 
 **✳️✳️✳️ COLOQUE AQUI UM IFRAME COM SEU PROTÓTIPO INTERATIVO ✳️✳️✳️**
-
-✅ [Protótipo Interativo (MarvelApp)](https://marvelapp.com/prototype/4hd6091?emb=1&iosapp=false&frameless=false)  ⚠️ EXEMPLO ⚠️
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Um protótipo interativo apresenta o projeto de interfaces e permite ao usuário navegar pelas funcionalidades como se estivesse lidando com o software pronto. Utilize as mesmas ferramentas de construção de wireframes para montagem do seu protótipo interativo. Inclua o link para o protótipo interativo do projeto.
 
 # Metodologia
 
