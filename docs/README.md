@@ -2,13 +2,17 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Projeto:** PetNose
+* **Repositório GitHub:** https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-excessoanimais.git
+
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Douglas Marçal de Freitas](https://github.com/douglasFreitas18)
+  * [Daniel Aguiar Pacheco](https://github.com/beltrano)
+  * [Pedro Pinho](https://github.com/p1nho0)
+  * [Pedro Henrique Maia](https://github.com/pedrohomaia)
+  * [Renata Neves](https://github.com/renataneves-hub)
+  * [Ana Júlia de Sena Oliveira](https://github.com/Ana-Sena)
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -24,60 +28,47 @@ A documentação do projeto é estruturada da seguinte forma:
 
 # Contexto
 
-Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa e público-alvo.
+O número de animais em situação de rua cresce a cada ano no Brasil, tornando-se uma preocupação tanto para a sociedade quanto para os órgãos públicos responsáveis pela saúde e bem-estar animal. Cães e gatos abandonados representam um desafio social, ambiental e de saúde pública, já que podem ser vetores de doenças, causar acidentes e impactar diretamente a qualidade de vida da população.
+
+Os centros de controle de zoonoses, ONGs e protetores independentes desempenham papel essencial nesse cenário, atuando no resgate, tratamento, castração, vacinação e, por fim, na busca por lares responsáveis para esses animais. No entanto, a falta de integração entre a população e os órgãos competentes torna o processo lento e pouco eficiente. Muitas vezes, as denúncias ocorrem de forma descentralizada — por redes sociais, telefonemas ou contatos informais — dificultando o acompanhamento e a transparência no processo.
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+O processo atual para denunciar e resgatar animais de rua é notoriamente fragmentado e pouco acessível, sofrendo pela falta de uma plataforma unificada que conecte de forma eficiente os cidadãos aos centros de zoonoses. Essa desorganização gera grandes dificuldades operacionais, como a falta de padrão no registro das ocorrências e a carência de um canal oficial e fácil para a população comunicar os casos.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Além disso, a ausência de um sistema integrado compromete a capacidade de monitorar os animais resgatados e para onde eles vão, e ainda causa baixa visibilidade para o processo de adoção, o que limita bastante as chances dos animais encontrarem um novo lar. Em última análise, todo esse cenário contribui diretamente para o excesso de animais nas ruas e reduz a efetividade das ações de controle populacional e de promoção da guarda responsável.
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+O objetivo geral deste projeto é desenvolver uma plataforma web que centralize o processo de denúncia, resgate, acolhimento e adoção de animais em situação de rua, fortalecendo a atuação dos centros de controle de zoonoses e parceiros.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
->
-> **Orientações**:
->
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Ainda, para atingir esse objetivo, o projeto focará em simplificar a vida da população e dos centros de zoonoses. Isso será feito facilitando o registro de casos com formulários simples e com a localização do animal, criando um canal oficial que liga a pessoa que denunciou ao órgão de resgate, para que tudo seja mais rápido. Além disso, a plataforma terá uma área para os centros de zoonoses cuidarem e acompanharem os animais que resgataram. Por fim, o projeto vai promover mais adoções através de uma vitrine digital onde as pessoas podem buscar o animal perfeito usando filtros como tamanho, idade e saúde.
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+O excesso de animais de rua é um problema que impacta tanto o bem-estar dos próprios animais quanto a saúde pública e a segurança da população. Atualmente, a ausência de um sistema unificado para denúncias e acompanhamento de resgates dificulta a atuação eficiente dos órgãos de zoonoses, além de limitar a visibilidade dos animais disponíveis para adoção.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A criação de uma plataforma digital voltada especificamente para esse contexto se justifica pela necessidade de:
+
+- Organização e centralização das denúncias, evitando que casos se percam em canais informais.
+
+- Agilidade e transparência no processo de resgate, tratamento e destinação dos animais.
+
+- Fortalecimento das ações de adoção, ampliando as chances de cada animal encontrar um lar responsável.
+
+Dessa forma, o sistema proposto busca contribuir diretamente para a redução do número de animais abandonados, promovendo maior eficiência, segurança e responsabilidade social.
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+A solução é voltada para dois grandes grupos de usuários:
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva o mercado para o qual a solução está sendo desenvolvida, detalhando um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc. Adicione informações sobre o público-alvo por meio de uma descrição textual ou por meio do mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+  1. População em geral – cidadãos que presenciam situações de abandono, maus-tratos ou animais perdidos, e que poderão utilizar a plataforma como canal oficial de denúncia.
+
+  2. Órgãos de zoonoses, ONGs e protetores independentes – entidades responsáveis pelo resgate, acolhimento, tratamento e adoção dos animais, que necessitam de ferramentas para organizar melhor suas ações.
+
+Além desses, também podem ser considerados adotantes em potencial, que terão acesso a uma área pública para conhecer os animais disponíveis e iniciar o processo de adoção.
+
+O público-alvo possui perfis variados em relação à tecnologia: desde cidadãos com uso básico de smartphones para registros rápidos até profissionais e gestores que utilizarão a plataforma em atividades administrativas. Essa diversidade reforça a importância de uma solução intuitiva, acessível e responsiva
 
 # Product Discovery
 
