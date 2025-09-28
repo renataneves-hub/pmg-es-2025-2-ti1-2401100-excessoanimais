@@ -7,12 +7,13 @@ Informações básicas do projeto.
 
 * **Membros da equipe:**
 
-  * [Douglas Marçal de Freitas](https://github.com/douglasFreitas18)
-  * [Daniel Aguiar Pacheco](https://github.com/beltrano)
-  * [Pedro Pinho](https://github.com/p1nho0)
-  * [Pedro Henrique Maia](https://github.com/pedrohomaia)
-  * [Renata Neves](https://github.com/renataneves-hub)
-  * [Ana Júlia de Sena Oliveira](https://github.com/Ana-Sena)
+* [Ana Júlia de Sena Oliveira](https://github.com/Ana-Sena)
+* [Daniel Aguiar Pacheco](https://github.com/beltrano)
+* [Douglas Marçal de Freitas](https://github.com/douglasFreitas18)
+* [Pedro Henrique Maia](https://github.com/pedrohomaia)
+* [Pedro Pinho](https://github.com/p1nho0)
+* [Renata Neves](https://github.com/renataneves-hub)
+  
 
 A documentação do projeto é estruturada da seguinte forma:
 
@@ -24,7 +25,7 @@ A documentação do projeto é estruturada da seguinte forma:
 6. Solução
 7. Referências Bibliográficas
 
-✅ [Documentação de Design Thinking (MIRO)](files/processo-dt.pdf)
+✅ [Documentação de Design Thinking (MIRO)](https://miro.com/app/live-embed/uXjVJSvRFpQ=/?embedMode=view_only_without_ui&moveToViewport=-1549%2C-1179%2C7835%2C3667&embedId=453530841408)
 
 # Contexto
 
@@ -75,8 +76,11 @@ O público-alvo possui perfis variados em relação à tecnologia: desde cidadã
 ## Etapa de Entendimento
 
 > * **Matriz CSD**: ![Matriz_CSD](<images/Matriz CSD.jpg>)
+
 > * **Mapa de stakeholders**: ![Mapa_Stakeholders](<images/Mapa de stakeholders.jpg>)
+
 > * **Entrevistas qualitativas**: ![Entrevistas](<images/Entrevistas Qualitativas.jpg>)
+
 > * **Highlights de pesquisa**: ![Highlights_Pesquisa](<images/Highlights de pesquisa.jpg>)
 
 ## Etapa de Definição
@@ -118,9 +122,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 | --------- | ---------------- |
 | ![Proposta1](<images/Proposta de Valor - 1.jpg>) | ![Proposta2](<images/Proposta de Valor - 2.jpg>) |
 
-|3 - Flora  | 4 - |
-| --------- | ----------- |
-|  |  |
+
 
 ## Requisitos
 
@@ -175,11 +177,11 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 | Ambiente                    | Plataforma | Link de acesso                                     |
 | --------------------------- | ---------- | -------------------------------------------------- |
-| Processo de Design Thinking | Miro       | [Miro_Link](https://miro.com/app/live-embed/uXjVJSvRFpQ=/?embedMode=view_only_without_ui&moveToViewport=-1549%2C-1179%2C7835%2C3667&embedId=453530841408) |
-| Repositório de código       | GitHub     | [Git_Link](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-excessoanimais.git) |
-| User Flow                   | Figma      | [Link_Figma](https://www.figma.com/board/kepVe4IaAiIuy9cNVgNPvJ/FLUXO---INTERA%C3%87AO?node-id=0-1&p=f&t=bQCXrZnszdkVXm6Z-0)   |
+| Processo de Design Thinking | Miro       | [](https://miro.com/app/live-embed/uXjVJSvRFpQ=/?embedMode=view_only_without_ui&moveToViewport=-1549%2C-1179%2C7835%2C3667&embedId=453530841408)|
+| Repositório de código       | GitHub     | [](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-excessoanimais.git) |
+| User Flow                   | Figma      | [](https://www.figma.com/board/kepVe4IaAiIuy9cNVgNPvJ/FLUXO---INTERA%C3%87AO?node-id=0-1&p=f&t=bQCXrZnszdkVXm6Z-0)   |
 | Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
-| Protótipo Interativo        | Figma      | [Link_Figma](https://www.figma.com/board/kepVe4IaAiIuy9cNVgNPvJ/FLUXO---INTERA%C3%87AO?node-id=0-1&p=f&t=bQCXrZnszdkVXm6Z-0)   |
+| Protótipo Interativo        | Figma      | [](https://www.figma.com/board/kepVe4IaAiIuy9cNVgNPvJ/FLUXO---INTERA%C3%87AO?node-id=0-1&p=f&t=bQCXrZnszdkVXm6Z-0)   |
 |                             |            |                                                    |
 
 ## Gerenciamento do Projeto
